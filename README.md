@@ -1,6 +1,6 @@
 # Something about SpaceFn
 - [The SpaceFN layout: trying to end keyboard inflation](https://geekhack.org/index.php?topic=51069.0)  
--[AutoHotKey实现SpaceFn](https://www.oyohyee.com/post/Note/spacefn/)
+- [AutoHotKey实现SpaceFn](https://www.oyohyee.com/post/Note/spacefn/)
 
 |Key|Function|
 |:---:|:---:|
@@ -26,6 +26,12 @@
 |`Space`+`0`|`F10`|
 |`Space`+`-`|`F11`|
 |`Space`+`=`|`F12`|
+
+# Source Code
+- [Spacefn.ahk](https://github.com/OhYee/SpaceFn/blob/master/Spacefn.ahk)
+
+# Release
+- [Release 0.0.1](https://github.com/OhYee/SpaceFn/releases/tag/0.0.1)
 
 # LICENSE
 Do whatever you want.
