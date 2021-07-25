@@ -1,4 +1,4 @@
-﻿;SpaceFn
+﻿;SpaceFn for dvorak
 #inputlevel,2
 $Space::
     SetMouseDelay -1
@@ -11,13 +11,13 @@ $Space::
     return
 
 #inputlevel,1
-F24 & i::Up
-F24 & k::Down
-F24 & j::Left
-F24 & l::Right
-F24 & u::Home
-F24 & o::End
-F24 & n::PgUp
+F24 & c::Up
+F24 & t::Down
+F24 & h::Left
+F24 & n::Right
+F24 & g::Home
+F24 & r::End
+F24 & b::PgUp
 F24 & m::PgDn
 
 F24 & 1::F1
@@ -30,8 +30,8 @@ F24 & 7::F7
 F24 & 8::F8
 F24 & 9::F9
 F24 & 0::F10
-F24 & -::F11
-F24 & =::F12
+F24 & [::F11
+F24 & ]::F12
 
 F24 & Enter::^Enter
 
