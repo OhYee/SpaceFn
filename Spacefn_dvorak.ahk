@@ -35,6 +35,10 @@ F24 & ]::F12
 
 F24 & Enter::^Enter
 
+; swap CapsLock <--> Ctrl
+CapsLock::Ctrl
+Ctrl::CapsLock
+
 ;Ctrl+S 重加载
 ; ~^s::
 ; sleep 500
